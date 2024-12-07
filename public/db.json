@@ -1,0 +1,44 @@
+{
+    "comicBooks":[
+        {
+            "comicBook_title": "The Amazing Spider-Man: Homecoming",
+            "comicBook_author": "Stan Lee",
+            "comicBook_genre": "Superhero",
+            "comicBook_price": 12.99,
+            "comicBook_releaseDate": "2022-07-15",
+            "comicImage": "https://imgs.search.brave.com/5V23E9u5BP4SfkdO9MmYs_Kf2nmi0x4om-Ogx4wfbF4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bWFydmVsLmNvbS91/L3Byb2QvbWFydmVs/L2kvbWcvNy8xMC82/MjYyZTQ0ODU5ZmRj/L3N0YW5kYXJkX2lu/Y3JlZGlibGUucG5n"
+          },
+          {
+            "comicBook_title": "Batman: The Dark Knight Returns",
+            "comicBook_author": "Frank Miller",
+            "comicBook_genre": "Action/Adventure",
+            "comicBook_price": 14.99,
+            "comicBook_releaseDate": "1986-02-01",
+            "comicImage": "https://imgs.search.brave.com/1G0W5LpGUBgcCIaqLTcZT3JHjHWtTra7aqJt2SMX7D8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI4NjU0/NjkuanBn"
+          },
+          {
+            "comicBook_title": "Saga: Volume 1",
+            "comicBook_author": "Brian K. Vaughan",
+            "comicBook_genre": "Science Fiction",
+            "comicBook_price": 9.99,
+            "comicBook_releaseDate": "2012-10-23",
+            "comicImage": "https://imgs.search.brave.com/HOMNfpZADn0TTnq7_betv3PKXrBtK6CLRdF8CE-FuVE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFpVU5EYXBOTUwu/anBn"
+          },
+          {
+            "comicBook_title": "Black Panther: A Nation Under Our Feet",
+            "comicBook_author": "Ta-Nehisi Coates",
+            "comicBook_genre": "Political Thriller",
+            "comicBook_price": 17.99,
+            "comicBook_releaseDate": "2016-09-13",
+            "comicImage": "https://imgs.search.brave.com/QPy5LzzD9XlHikNfBi5sKS7_OVDbcGvEZIaU38-gCPA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9T/L2NteC1pbWFnZXMt/cHJvZC9JdGVtLzQx/ODI4OS80MTgyODku/X1NYMTI4MF9RTDgw/X1RURF8uanBn"
+          },
+          {
+            "comicBook_title": "Calvin and Hobbes: The Essential Collection",
+            "comicBook_author": "Bill Watterson",
+            "comicBook_genre": "Humor/Comedy",
+            "comicBook_price": 24.99,
+            "comicBook_releaseDate": "1995-10-03",
+            "comicImage": "https://imgs.search.brave.com/JH7PoE656IXT1TvGUcBJGPAQAyrimbhbE-VyvIJTgIg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMjk4/Mi5wY2RuLmNvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzEw/L0Vzc2VudGlhbC1D/YWx2aW4tYW5kLUhv/YmJlcy0xLmpwZWcu/b3B0aW1hbC5qcGVn"
+          }
+    ]
+}
